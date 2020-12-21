@@ -1,1 +1,2 @@
 game.Players.LocalPlayer.PlayerScripts.AntiHitBox:Destroy()
+print("Zeppelin Wars is a fun game!")
